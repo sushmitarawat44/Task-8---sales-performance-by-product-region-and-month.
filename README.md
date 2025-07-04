@@ -23,9 +23,10 @@ This dashboard presents a visual analysis of Superstore sales performance across
 ---
 
 ## 📎 Files Attached
-- `dashboard.png`: Screenshot of the final Power BI dashboard.
-- `superstore-insights.txt`: Text file containing the insights.
-- `Screenshot of dashboard` : Screenshot
+- `Basic Dashboard of supersalesstore.pbix` : File of the Dashboard
+- `Basic Dashboard.png` : Screenshot of Dashboard
+- `Insight on SuperStore Sales.txt` : Text file of Insights
+- `README.md`
 - 
 
 ---
